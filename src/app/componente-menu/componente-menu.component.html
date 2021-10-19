@@ -1,0 +1,58 @@
+<div class="menu-container">
+
+  <div class="menu-mobile">
+    <mat-sidenav-container class="example-container">
+      <mat-sidenav #sidenav mode="over" [(opened)]="opened">
+        <div class="logo-bombeiros">
+          <img src="../../assets/bombeiros-sc.png" alt="" width="150px">
+        </div>
+        <ul>
+          <li class="menu-lateral" routerLink="home">
+            <img src="../../assets/dashboard.png" alt="" width="32px">
+            <span>Dashboard</span>
+          </li>
+          <li class="menu-lateral" routerLink="cadastro">
+            <img src="../../assets/icone-morador.png" alt="" width="32px">
+            <span>Moradores</span></li>
+          <li class="menu-lateral" routerLink="relatorio">
+            <img src="../../assets/icone-relatorio.png" alt="" width="32px">
+            <span>Relatórios</span></li>
+          <li class="menu-lateral" routerLink="usuario"><img src="../../assets/icone-usuario.png"
+              width="32px"><span>Usuários</span></li>
+        </ul>
+        <ul>
+          <li class="logout menu-lateral" routerLink=""><img src="../../assets/icone-logout.png"
+              width="32px"><span>Logout</span></li>
+        </ul>
+      </mat-sidenav>
+      <mat-sidenav-content>
+        <button mat-button (click)="sidenav.toggle()">sidenav.toggle()</button>
+      </mat-sidenav-content>
+    </mat-sidenav-container>
+  </div>
+
+  <div class="menu-desktop">
+    <div class="logo-bombeiros">
+      <img src="../../assets/bombeiros-sc.png" alt="" width="150px">
+    </div>
+    <ul>
+      <li class="menu-lateral" routerLink="home">
+        <img src="../../assets/dashboard.png" alt="" width="32px">
+        <span>Dashboard</span>
+      </li>
+      <li class="menu-lateral" routerLink="cadastro">
+        <img src="../../assets/icone-morador.png" alt="" width="32px">
+        <span>Moradores</span></li>
+      <li class="menu-lateral" routerLink="relatorio">
+        <img src="../../assets/icone-relatorio.png" alt="" width="32px">
+        <span>Relatórios</span></li>
+      <li class="menu-lateral" routerLink="usuario"><img src="../../assets/icone-usuario.png" alt=""
+          width="32px"><span>Usuários</span></li>
+    </ul>
+    <ul>
+      <li class="logout menu-lateral" routerLink=""><img src="../../assets/icone-logout.png" alt=""
+          width="32px"><span>Logout</span></li>
+    </ul>
+  </div>
+  <router-outlet></router-outlet>
+</div>

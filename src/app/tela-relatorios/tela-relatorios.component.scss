@@ -1,0 +1,12 @@
+.container-relatorios {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100vw - 200px);
+  height: 100vh;
+  font-family: 'Barlow', sans-serif;
+  padding-top: 50px;
+  background-color: #E8E8E8;
+  justify-content: space-around;
+}
+

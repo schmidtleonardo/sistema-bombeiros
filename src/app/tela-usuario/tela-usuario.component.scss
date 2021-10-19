@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@800&display=swap');
+
+@media screen and(min-width:541px){
+  .container-usuarios {
+    width: calc(100vw - 200px);
+  }
+
+  .input-campos {
+    width: 250px;
+  }
+}
+
+@media screen and(max-width:541px) {
+  .container-usuarios {
+    width: 100vw;
+  }
+
+}
+
+.container-usuarios {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Barlow', sans-serif;
+  padding-top: 50px;
+  background-color: #E8E8E8;
+  justify-content: space-around;
+}
+
+.header {
+  height: 100px;
+}
+.header h1 {
+  text-align: center;
+}
+
+.container-box {
+  width: 60vw;
+}
+
+.container-2, .container-3, .container-4 {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.btn-danger {
+  width: 100px;
+  justify-self: end;
+}
+
+.input-usuarios {
+  // width: calc(100% - 80px);
+  width: 100%;
+}
+
+.campos-form {
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.campos-form .label-sm {
+  width: 80px !important;
+  margin-right: 5px;
+}
+
+.div-button {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.label-lg {
+  width: 130px !important;
+}
+
+.label-lg-password {
+  width: 180px;
+}
+
+.relacao-usuarios {
+  display: flex;
+  flex-direction: column;
+  width: 60vw;
+}
+
+.table {
+  overflow: auto;
+}
+
+.search-button {
+  cursor: pointer;
+  width: 110px;
+  border-radius: 5px;
+  height: 30px;
+}
+
+.search-button:hover {
+  background-color: #a3a3a3;
+}
+
+.example-container .mat-form-field + .mat-form-field {
+  margin-left: 8px;
+}
+
+.example-right-align {
+  text-align: right;
+}
+
+input.example-right-align::-webkit-outer-spin-button,
+input.example-right-align::-webkit-inner-spin-button {
+  display: none;
+}
+
+input.example-right-align {
+  -moz-appearance: textfield;
+}
+
+.demo-table {
+  width: 100%;
+}
+
+.mat-row .mat-cell {
+  border-bottom: 1px solid transparent;
+  border-top: 1px solid transparent;
+  cursor: pointer;
+}
+
+.mat-row:hover .mat-cell {
+  border-color: currentColor;
+}
+
+

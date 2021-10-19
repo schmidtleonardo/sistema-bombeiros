@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@800&display=swap');
+
+* {
+  margin: 0;
+}
+
+@media screen and (max-width: 670px) {
+  .container-2, .container-3, .container-4, .container-5, .container-6 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .input-campos, .input-moradores {
+    width: 100%;
+  }
+
+  .campos-objeto {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media screen and (min-width:671px) and (max-width: 1000px) {
+  .container-2, .container-3, .container-4, .container-5, .container-6 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .campos-objeto, .campos-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .input-campos, .input-moradores {
+    width: 400px;
+  }
+}
+
+@media screen and (min-width: 1001px) {
+  .container-2, .container-3, .container-4, .container-5, .container-6 {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .input-campos {
+    width: 200px;
+  }
+
+  .campos-objeto {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .input-moradores {
+    width: 100%;
+  }
+}
+
+.div-mae {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+.div1, .div2 {
+  height: 400px;
+  overflow: auto;
+}
+
+.container-moradores {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: calc(100vw - 200px);
+  height: 90vh;
+  font-family: 'Barlow', sans-serif;
+  background-color: #E8E8E8;
+}
+
+.container-box {
+  width: 60vw;
+  height: 400px;
+}
+
+.btn-danger {
+  width: 100px;
+}
+
+// .input-moradores {
+//   width: 100%;
+// }
+
+.relacao-moradores {
+  display: flex;
+  flex-direction: column;
+  width: 60vw;
+}
+
+.campos-form {
+  display: flex;
+}
+
+.campos-form .label-sm {
+  width: 80px !important;
+  margin-right: 5px;
+}
+
+.div-button {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.label-lg {
+  width: 120px !important;
+}
+
+
+.table {
+  overflow: auto;
+}
+
+.demo-table {
+  width: 100%;
+}
+
+.mat-row .mat-cell {
+  border-bottom: 1px solid transparent;
+  border-top: 1px solid transparent;
+  cursor: pointer;
+}
+
+.mat-row:hover .mat-cell {
+  border-color: currentColor;
+}
+
+.input-padrao {
+  width: 240px;
+}
+
+.objetos, .cadastro {
+  padding-top: 20px;
+}
+
+
+.valvula {
+  justify-content: center;
+}
