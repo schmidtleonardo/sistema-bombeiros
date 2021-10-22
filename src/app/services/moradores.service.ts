@@ -1,4 +1,4 @@
-import { Morador } from '../models/Morador';
+import { Morador } from '../models/morador';
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { environment } from 'src/environments/environment';

@@ -1,5 +1,5 @@
 import { ViacepService } from './../services/viacep.service';
-import { Usuario } from './../models/Usuario';
+import { Usuario } from './../models/usuario';
 import { UsuariosService } from './../services/usuarios.service';
 import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormControl, Validators } from '@angular/forms';
