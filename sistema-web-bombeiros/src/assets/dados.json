@@ -1,5 +1,5 @@
 {
-  "moradores": [
+  "edificacoes": [
     {
       "id": 1,
       "nome": "Leonardo Schmidt",
@@ -16,19 +16,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12345,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.626132011413574,
       "latitude": -27.605632796695225
     },
@@ -48,19 +35,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12345,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.629908561706536,
       "latitude": -27.612097668013035
     },
@@ -80,19 +54,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12345,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63523006439208,
       "latitude": -27.610956836090097
     },
@@ -112,19 +73,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12345,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63171100616454,
       "latitude": -27.61369481274449
     },
@@ -144,19 +92,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12345,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.62982273101806,
       "latitude": -27.612325832971884
     },
@@ -176,19 +111,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12345,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.629736900329576,
       "latitude": -27.6139229743765
     },
@@ -208,19 +130,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12345,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.631968498229966,
       "latitude": -27.612858216027632
     },
@@ -240,19 +149,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12345,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.62836360931396,
       "latitude": -27.612097668013035
     },
@@ -272,19 +168,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12346,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63317012786864,
       "latitude": -27.61065261223738
     },
@@ -304,19 +187,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12347,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63402843475341,
       "latitude": -27.612553997448
     },
@@ -336,19 +206,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12348,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63342761993407,
       "latitude": -27.614683509717274
     },
@@ -368,19 +225,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12349,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63583087921141,
       "latitude": -27.612553997448
     },
@@ -400,19 +244,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12350,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.632483482360826,
       "latitude": -27.613314542301673
     },
@@ -432,19 +263,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12351,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.631196022033684,
       "latitude": -27.609131480301045
     },
@@ -464,19 +282,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12352,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.62982273101806,
       "latitude": -27.612630052177728
     },
@@ -496,19 +314,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12353,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.62578868865966,
       "latitude": -27.612782161463805
     },
@@ -528,19 +346,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12354,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.62879276275634,
       "latitude": -27.61483561615173
     },
@@ -560,19 +378,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12355,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63454341888427,
       "latitude": -27.61308637940229
     },
@@ -592,19 +410,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12356,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.6351442337036,
       "latitude": -27.615291934187653
     },
@@ -624,19 +442,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12357,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63008022308349,
       "latitude": -27.615444039777167
     },
@@ -656,19 +474,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12358,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63282680511473,
       "latitude": -27.609435708378008
     },
@@ -688,19 +506,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12359,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.62767696380614,
       "latitude": -27.612249778038425
     },
@@ -720,19 +538,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12360,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.630766868591294,
       "latitude": -27.60882725137926
     },
@@ -752,19 +570,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12361,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.62699031829833,
       "latitude": -27.611108947699613
     },
@@ -784,19 +602,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12362,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.62956523895262,
       "latitude": -27.608066675378673
     },
@@ -816,19 +634,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12363,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.628020286560044,
       "latitude": -27.6073821524637
     },
@@ -848,19 +666,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12364,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.625531196594224,
       "latitude": -27.60601309380344
     },
@@ -880,19 +698,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12365,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.62166881561278,
       "latitude": -27.604872198519004
     },
@@ -912,19 +730,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12366,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.61969470977782,
       "latitude": -27.602818557071593
     },
@@ -944,19 +762,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12367,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.616003990173326,
       "latitude": -27.60091700289675
     },
@@ -976,19 +794,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12368,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.61145496368407,
       "latitude": -27.600764877137365
     },
@@ -1008,19 +826,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12369,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.61463069915771,
       "latitude": -27.598254771621193
     },
@@ -1040,19 +858,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12370,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.61986637115478,
       "latitude": -27.599852118146657
     },
@@ -1072,19 +890,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12371,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.622784614562974,
       "latitude": -27.598787223049662
     },
@@ -1104,19 +922,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12372,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.62364292144774,
       "latitude": -27.60251431062092
     },
@@ -1136,19 +954,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12373,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.62913608551025,
       "latitude": -27.601677628526133
     },
@@ -1168,19 +986,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12374,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63849163055419,
       "latitude": -27.608675136601562
     },
@@ -1200,19 +1018,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12375,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.636689186096184,
       "latitude": -27.61240188785255
     },
@@ -1232,19 +1050,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12376,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63214015960693,
       "latitude": -27.606545507537398
     },
@@ -1264,19 +1082,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12377,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.6278486251831,
       "latitude": -27.60441583707904
     },
@@ -1296,19 +1114,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12378,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.628363609313965,
       "latitude": -27.599091479847466
     },
@@ -1328,19 +1146,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12379,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.62596035003662,
       "latitude": -27.59422326973195
     },
@@ -1360,19 +1178,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12380,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.6315393447876,
       "latitude": -27.593766863948808
     },
@@ -1392,19 +1210,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12381,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63299846649169,
       "latitude": -27.59711379556446
     },
@@ -1424,19 +1242,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12382,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.638405799865716,
       "latitude": -27.597950512500724
     },
@@ -1456,19 +1274,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12383,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64098072052002,
       "latitude": -27.59954786346045
     },
@@ -1488,19 +1306,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12384,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64201068878174,
       "latitude": -27.59749412223639
     },
@@ -1520,19 +1338,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12385,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.6425256729126,
       "latitude": -27.599395735800613
     },
@@ -1552,19 +1370,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12386,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64518642425537,
       "latitude": -27.599852118146657
     },
@@ -1584,19 +1402,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12387,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.641324043273926,
       "latitude": -27.600688814178497
     },
@@ -1616,19 +1434,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12388,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64098072052002,
       "latitude": -27.601677628526133
     },
@@ -1648,19 +1466,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12389,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63952159881592,
       "latitude": -27.600156371988206
     },
@@ -1680,19 +1498,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12390,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.642182350158684,
       "latitude": -27.600004245172997
     },
@@ -1712,19 +1530,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12391,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64201068878174,
       "latitude": -27.597874447588637
     },
@@ -1744,19 +1562,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12392,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64372730255127,
       "latitude": -27.59749412223639
     },
@@ -1776,19 +1594,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12393,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.646130561828606,
       "latitude": -27.614607456420842
     },
@@ -1808,19 +1626,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12394,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64896297454834,
       "latitude": -27.61483561615173
     },
@@ -1840,19 +1658,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12395,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64801883697509,
       "latitude": -27.615520092492694
     },
@@ -1872,19 +1690,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12396,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64552974700928,
       "latitude": -27.61475956296092
     },
@@ -1904,19 +1722,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12397,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64673137664795,
       "latitude": -27.61240188785255
     },
@@ -1936,19 +1754,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12398,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64527225494384,
       "latitude": -27.615291934187667
     },
@@ -1968,19 +1786,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12399,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.643898963928216,
       "latitude": -27.614227189146533
     },
@@ -2000,19 +1818,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12400,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64784717559814,
       "latitude": -27.613010324996885
     },
@@ -2032,19 +1850,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12401,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64724636077881,
       "latitude": -27.615215881313702
     },
@@ -2064,19 +1882,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12402,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63111019134521,
       "latitude": -27.609663878881307
     },
@@ -2096,19 +1914,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12403,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63162517547607,
       "latitude": -27.61270610684717
     },
@@ -2128,19 +1946,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12404,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63626003265381,
       "latitude": -27.612782161463805
     },
@@ -2160,19 +1978,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12405,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.636860847473145,
       "latitude": -27.615596145155415
     },
@@ -2192,19 +2010,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12406,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63754749298096,
       "latitude": -27.62251671638694
     },
@@ -2224,19 +2042,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12407,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63986492156983,
       "latitude": -27.621147846887183
     },
@@ -2256,19 +2074,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12408,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.640551567077644,
       "latitude": -27.619322660934266
     },
@@ -2288,19 +2106,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12409,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63969326019288,
       "latitude": -27.62129994434335
     },
@@ -2320,19 +2138,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12410,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.637032508850105,
       "latitude": -27.621604138621883
     },
@@ -2352,19 +2170,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12411,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.635830879211426,
       "latitude": -27.622896954877582
     },
@@ -2384,19 +2202,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12412,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.636345863342285,
       "latitude": -27.621375992992213
     },
@@ -2416,19 +2234,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12413,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.6399507522583,
       "latitude": -27.620919700306793
     },
@@ -2448,19 +2266,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12414,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63892078399658,
       "latitude": -27.62069155325105
     },
@@ -2480,19 +2298,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12415,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64098072052002,
       "latitude": -27.619778960274566
     },
@@ -2512,19 +2330,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12416,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63917827606202,
       "latitude": -27.619778960274566
     },
@@ -2544,19 +2362,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12417,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.649992942810044,
       "latitude": -27.617725598270304
     },
@@ -2576,19 +2394,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12418,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.6512804031372,
       "latitude": -27.6200071092317
     },
@@ -2608,19 +2426,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12419,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.65351200103759,
       "latitude": -27.6200071092317
     },
@@ -2640,19 +2458,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12420,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.652739524841294,
       "latitude": -27.621832283776193
     },
@@ -2672,19 +2490,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12421,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64930629730224,
       "latitude": -27.620843651341026
     },
@@ -2704,19 +2522,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12422,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64879131317137,
       "latitude": -27.619778960274566
     },
@@ -2736,19 +2554,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12423,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64604473114013,
       "latitude": -27.62206042845515
     },
@@ -2768,19 +2586,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12424,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64716053009032,
       "latitude": -27.623505333715947
     },
@@ -2800,19 +2618,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12425,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64535808563232,
       "latitude": -27.624874173742263
     },
@@ -2832,19 +2650,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12426,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64243984222411,
       "latitude": -27.623201144719317
     },
@@ -2864,19 +2682,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12427,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64304065704345,
       "latitude": -27.62540649579725
     },
@@ -2896,19 +2714,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12428,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64956378936766,
       "latitude": -27.624646034926357
     },
@@ -2928,19 +2746,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12429,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.648705482482896,
       "latitude": -27.62190833205534
     },
@@ -2960,19 +2778,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12430,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.644671440124505,
       "latitude": -27.620843651341026
     },
@@ -2992,19 +2810,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12431,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64484310150146,
       "latitude": -27.618334005841
     },
@@ -3024,19 +2842,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12432,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.6432123184204,
       "latitude": -27.616584824965038
     },
@@ -3056,19 +2874,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12433,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.64046573638915,
       "latitude": -27.615672197765313
     },
@@ -3088,19 +2906,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12434,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63892078399657,
       "latitude": -27.61293427053866
     },
@@ -3120,19 +2938,19 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
+
+
+
+
+
       "numeroPatrimonio": 12435,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
+
+
+
+
+
+
+
       "longitude": -48.63677501678466,
       "latitude": -27.6100441619974
     },
@@ -3152,19 +2970,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12436,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.633770942687974,
       "latitude": -27.607838501548883
     },
@@ -3184,19 +2989,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12437,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.639950752258294,
       "latitude": -27.63415141612351
     },
@@ -3216,19 +3008,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12438,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.636431694030755,
       "latitude": -27.636128431705536
     },
@@ -3248,19 +3027,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12439,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63557338714599,
       "latitude": -27.63742107642829
     },
@@ -3280,19 +3046,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12440,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.632998466491685,
       "latitude": -27.6371169261026
     },
@@ -3312,19 +3065,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12441,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63102436065673,
       "latitude": -27.634683693062968
     },
@@ -3344,19 +3084,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12442,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63317012786864,
       "latitude": -27.6315660341642
     },
@@ -3376,19 +3103,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12443,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.632998466491685,
       "latitude": -27.628448286456937
     },
@@ -3408,19 +3122,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12444,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63274097442626,
       "latitude": -27.626927401692065
     },
@@ -3440,19 +3141,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12445,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63274097442626,
       "latitude": -27.624950219908584
     },
@@ -3472,19 +3160,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12446,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63789081573485,
       "latitude": -27.627687846715773
     },
@@ -3504,19 +3179,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12447,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.636517524719224,
       "latitude": -27.632098323677873
     },
@@ -3536,19 +3198,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12448,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.632912635803216,
       "latitude": -27.632630610602796
     },
@@ -3568,19 +3217,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12449,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.6351442337036,
       "latitude": -27.635215967413536
     },
@@ -3600,19 +3236,6 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12450,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63857746124266,
       "latitude": -27.63316289493895
     },
@@ -3632,53 +3255,25 @@
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
       "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12451,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
       "longitude": -48.63634586334227,
       "latitude": -27.629512893219626
     },
     {
       "id": 115,
-      "nome": "Fulano",
+      "nome": "Leonardo Henrique Schmidt",
       "cep": "88102030",
       "endereco": "Rua Sete de Setembro",
-      "numEndereco": 4,
+      "numEndereco": "1",
       "bairro": "Kobrasol",
       "cidade": "São José",
-      "telefone1": "48991919199",
-      "telefone2": "48991919199",
-      "cpf": "99999999999",
+      "telefone1": "48999999999",
+      "telefone2": "",
+      "cpf": "99999999998",
       "email": "email@teste.com",
-      "numMoradores": 4,
+      "numMoradores": 5,
       "tipoEdificacao": "Residencial",
       "temBotijao": "Sim",
-      "qtdBotijao": 1,
-      "tamanhoMangueira": 5,
-      "modeloMangueira": "Mangueira Plástica",
-      "validadeMangueira": "2022-10-20T03:00:00.000Z",
-      "validadeValvula": "2022-10-20T03:00:00.000Z",
-      "validadeHidrante": "2022-10-20T03:00:00.000Z",
-      "numeroPatrimonio": 12452,
-      "ultimoTeste": "2021-10-15T03:00:00.000Z",
-      "statusAtividade": "Finalizada",
-      "validadeExtintor": "2022-10-20T03:00:00.000Z",
-      "modeloExtintor": "Pó Químico ABC",
-      "seloInmetro": "Sim",
-      "pesoExtintor": 5,
-      "anoExpecao": 2021,
-      "longitude": -48.63437175750732,
-      "latitude": -27.624493942118335
+      "qtdBotijao": ""
     }
   ],
   "usuarios": [
@@ -3817,26 +3412,10 @@
       "senha": "8Uy1atrKes",
       "email": "rafael.lima@bombeiros.sc.com.br",
       "perfilAcesso": "Cobom"
-    },
-    {
-      "id": 16,
-      "nome": "LEONARDO SCHMIDT",
-      "matricula": "192837",
-      "nomeDeGuerra": "ASDASD",
-      "senha": "123123",
-      "confirmacaoSenha": "123123",
-      "email": "LEONARDO@EMAIL.COM",
-      "perfilAcesso": "admin-0"
-    },
-    {
-      "id": 17,
-      "nome": "Leonardo Henrique Schmidt",
-      "matricula": 123,
-      "nomeDeGuerra": "Leonardo Schmidt",
-      "senha": "123321",
-      "confirmacaoSenha": "123321",
-      "email": "leonardo@amfpromotora.com",
-      "perfilAcesso": "Administrador"
     }
-  ]
+  ],
+  "extintor": [],
+  "hidrante": [],
+  "mangueira": [],
+  "valvula": []
 }

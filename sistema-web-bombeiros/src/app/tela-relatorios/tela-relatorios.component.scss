@@ -1,0 +1,62 @@
+@media screen and (max-width: 670px) {
+  .container-relatorios {
+    width: 100vw;
+  }
+}
+@media screen and (min-width: 671px) {
+  .container-relatorios {
+    width: calc(100vw - 200px);
+  }
+}
+.container-relatorios {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  font-family: "Barlow", sans-serif;
+  // padding-top: 50px;
+  background-color: #e8e8e8;
+  // justify-content: space-around;
+}
+
+.header {
+  padding-top: 40px;
+}
+
+.relatorio {
+  width: 80%;
+  height: 60vh;
+  overflow: auto;
+}
+
+.filtro {
+  margin-top: 40px;
+  width: 80%;
+}
+
+.mat-elevation-z8, .input-filtro {
+  width: 100%;
+}
+
+.mat-column-nome {
+  width: 20%;
+  // text-align: center;
+}
+
+.mat-column-telefone {
+  width: 100px;
+}
+
+.mat-column-endereco {
+  min-width: 20%;
+}
+
+.tabela {
+  min-width: 1500px;
+}
+
+button {
+  margin-top: 15px;
+}
+
+

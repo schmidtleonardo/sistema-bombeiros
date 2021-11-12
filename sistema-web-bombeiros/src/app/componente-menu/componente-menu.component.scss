@@ -1,0 +1,132 @@
+// @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
+
+
+@media screen and (max-width: 670px) {
+  .menu-desktop {
+    display: none;
+  }
+
+  .menu-mobile {
+    display: initial;
+  }
+
+  .botao-menu {
+    display: initial;
+    height: 40px;
+    width: 40px;
+  }
+}
+
+@media screen and (min-width: 671px) {
+  .menu-desktop {
+    display: initial;
+  }
+
+  .menu-mobile {
+    display: none;
+  }
+
+  .botao-menu {
+    display: none;
+  }
+}
+
+
+.menu-container {
+  display: flex;
+  position: absolute;
+}
+
+#img-menu {
+  width: 32px;
+  position: absolute;
+
+}
+
+.botao-menu {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  z-index: 1;
+}
+
+.menu-mobile {
+  height: 100vh;
+  background-color: rgb(222, 222, 222);
+  font-family: 'Barlow', sans-serif;
+  font-size: 18px;
+}
+
+.menu-desktop {
+  width: 200px;
+  height: 100vh;
+  background-color: rgb(222, 222, 222);
+  font-family: 'Barlow', sans-serif;
+  font-size: 18px;
+}
+
+.menu-lateral {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.menu-lateral span {
+  margin-left: 1  0px;
+}
+
+.logo-bombeiros {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+}
+
+.menu-desktop ul{
+  padding: 0px;
+}
+
+.menu-desktop li {
+  list-style: none;
+  list-style-type: none;
+  margin: 0px 0px 15px 0px;
+  padding: 0px 0px 0px 15px;
+  height: 40px;
+}
+
+.menu-desktop li:hover {
+  background-color: #a3a3a3;
+}
+
+.menu-mobile ul{
+  padding: 0px;
+}
+
+.menu-mobile li {
+  list-style: none;
+  list-style-type: none;
+  margin: 0px 0px 15px 0px;
+  padding: 0px 0px 0px 15px;
+  height: 40px;
+}
+
+.menu-mobile li:hover {
+  background-color: #a3a3a3;
+}
+
+.logout {
+  position: absolute;
+  bottom: 15px;
+  padding: 0px 0px 15px 15px;
+  width: 200px;
+}
+
+.example-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}

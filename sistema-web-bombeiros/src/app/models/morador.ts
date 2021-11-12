@@ -1,0 +1,32 @@
+export interface Morador {
+  id?: number;
+  nome: string;
+  cpf: string;
+  email: string;
+  telefone1: string;
+  telefone2: string;
+  cep: string;
+  endereco: string;
+  numEndereco: string;
+  bairro: string;
+  cidade: string;
+  tipoEdificacao: string;
+  numeroMoradores: number;
+  temBotijao: string;
+  qtdBotijao: number;
+  tamanhoMangueira: string;
+  modeloMangueira: string;
+  validadeMangueira: string;
+  validadeValvula: string;
+  validadeHidrante: string;
+  numeroPatrimonio: string;
+  ultimoTeste: string;
+  statusAtividade: string;
+  validadeExtintor: string;
+  modeloExtintor: string;
+  seloInmetro: string;
+  pesoExtintor: number;
+  anoExpecao: number;
+  longitude: string;
+  latitude: string;
+}

@@ -1,0 +1,54 @@
+<div class="botao-menu">
+  <img src="../../assets/menu.png" id="img-menu" (click)="abrirMenu()">
+</div>
+<div class="menu-container" [@slideIn]="isOpen ? 'in' : 'out'">
+
+  <div class="menu-mobile" >
+    <div class="logo-bombeiros">
+      <img src="../../assets/bombeiros-sc.png" alt="" width="150px">
+    </div>
+      <ul>
+        <li class="menu-lateral" routerLink="home">
+          <img src="../../assets/dashboard.png" alt="" width="32px">
+          <span>Dashboard</span>
+        </li>
+        <li class="menu-lateral" routerLink="cadastros">
+          <img src="../../assets/icone-edificacao.png" alt="" width="32px">
+          <span>Edificações</span></li>
+        <li class="menu-lateral" routerLink="relatorios">
+          <img src="../../assets/icone-relatorio.png" alt="" width="32px">
+          <span>Relatórios</span></li>
+        <li class="menu-lateral" routerLink="usuarios"><img src="../../assets/icone-usuario.png"
+            width="32px"><span>Usuários</span></li>
+      </ul>
+      <ul>
+        <li class="logout menu-lateral" routerLink=""><img src="../../assets/icone-logout.png"
+            width="32px"><span>Logout</span></li>
+      </ul>
+  </div>
+
+  <div class="menu-desktop">
+    <div class="logo-bombeiros">
+      <img src="../../assets/bombeiros-sc.png" alt="" width="150px">
+    </div>
+    <ul>
+      <li class="menu-lateral" routerLink="home" id="dashboard">
+        <img src="../../assets/dashboard.png" alt="" width="32px">
+        <span>Dashboard</span>
+      </li>
+      <li class="menu-lateral" routerLink="cadastros" id="cadastro">
+        <img src="../../assets/icone-edificacao.png" alt="" width="32px">
+        <span>Edificações</span></li>
+      <li class="menu-lateral" routerLink="relatorios" id="relatorio">
+        <img src="../../assets/icone-relatorio.png" alt="" width="32px">
+        <span>Relatórios</span></li>
+      <li class="menu-lateral" routerLink="usuarios" id="usuario"><img src="../../assets/icone-usuario.png" alt=""
+          width="32px"><span>Usuários</span></li>
+    </ul>
+    <ul>
+      <li class="logout menu-lateral" (click)="logout()"><img src="../../assets/icone-logout.png" alt=""
+          width="32px"><span>Logout</span></li>
+    </ul>
+  </div>
+  <router-outlet></router-outlet>
+</div>
