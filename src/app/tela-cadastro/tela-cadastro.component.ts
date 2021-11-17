@@ -143,7 +143,7 @@ export class TelaCadastroComponent implements OnInit {
 
   async cadastrar() {
     if (this.formGroup.valid) {
-      // alert('Usuário cadastrado com sucesso.');
+      alert('Usuário cadastrado com sucesso.');
       const latLon = await this.nominatimService.getLatLonFromAddress(this.formGroup.value.endereco, this.formGroup.value.bairro, this.formGroup.value.cidade, this.formGroup.value.estado)
       console.log(latLon)
       this.formGroup.controls.latitude.setValue(latLon[0].lat);
@@ -161,7 +161,7 @@ export class TelaCadastroComponent implements OnInit {
       await this.hidrantesService.create(hidrante);
       await this.mangueirasService.create(mangueira);
       await this.valvulasService.create(valvula);
-      // window.location.reload();
+      window.location.reload();
     }
   }
 
