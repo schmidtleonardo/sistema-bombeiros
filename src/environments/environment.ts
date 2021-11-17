@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   urlApi: 'http://localhost:3000',
-  backendUrl: 'http://localhost:8081',
+  backendUrl: 'https://sistema-bombeiros-java.herokuapp.com',
 };
 
 /*

@@ -5,12 +5,13 @@ import { TelaUsuarioComponent } from './tela-usuario/tela-usuario.component';
 import { TelaCadastroComponent } from './tela-cadastro/tela-cadastro.component';
 import { TelaHomeComponent } from './tela-home/tela-home.component';
 import { TelaLoginComponent } from './tela-login/tela-login.component';
+import { AuthGuard } from './auth/auth.guard';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { AuthGuard } from './auth/auth.guard';
 
 const routes: Routes = [
   { path: 'login', component: TelaLoginComponent },
+  // { path: 'cool' },
   {
     path: '',
     component: ComponenteMenuComponent,
