@@ -1,0 +1,580 @@
+<div class="div-mae">
+  <div class="container-edificacoes">
+    <div class="div1">
+      <div class="container-box">
+        <mat-tab-group mat-align-tabs="center" style="height: 340px">
+          <mat-tab label="Cadastro">
+            <form [formGroup]="formGroup">
+              <mat-tab-group mat-align-tabs="center">
+                <mat-tab label="Informações Princiais">
+                  <div class="cadastro">
+                    <div class="container-1">
+                      <div class="campos-form">
+                        <input type="hidden" formControlName="id" />
+                        <input type="hidden" formControlName="latitude" />
+                        <input type="hidden" formControlName="longitude" />
+                        <mat-form-field
+                          class="input-edificacoes"
+                          appearance="fill"
+                        >
+                          <mat-label>Nome Completo</mat-label>
+                          <input matInput formControlName="nome" />
+                          <mat-error *ngIf="formGroup.controls.nome.invalid"
+                            >Digite o nome completo</mat-error
+                          >
+                        </mat-form-field>
+                      </div>
+                    </div>
+                    <!-- container 2 -->
+                    <div class="container-2">
+                      <div class="campos-form">
+                        <mat-form-field appearance="fill" class="input-campos">
+                          <mat-label>CPF</mat-label>
+                          <input matInput type="email" formControlName="cpf" />
+                          <mat-error *ngIf="formGroup.controls.cpf.invalid"
+                            >CPF inválido</mat-error
+                          >
+                        </mat-form-field>
+                      </div>
+                      <div class="campos-form">
+                        <mat-form-field appearance="fill" class="input-campos">
+                          <mat-label>E-mail</mat-label>
+                          <input
+                            matInput
+                            type="email"
+                            formControlName="email"
+                          />
+                          <mat-error *ngIf="formGroup.controls.email.invalid"
+                            >E-mail inválido</mat-error
+                          >
+                        </mat-form-field>
+                      </div>
+                    </div>
+
+                    <!-- container 3 -->
+                    <div class="container-3">
+                      <div class="campos-form">
+                        <mat-form-field
+                          class="example-full-width input-campos"
+                          appearance="fill"
+                        >
+                          <mat-label>Telefone 1</mat-label>
+                          <span matPrefix>+55 &nbsp;</span>
+                          <input
+                            type="tel"
+                            matInput
+                            placeholder="99999-9999"
+                            formControlName="telefone1"
+                          />
+                          <mat-error
+                            *ngIf="formGroup.controls.telefone1.invalid"
+                            >Preencha o telefone corretamente
+                          </mat-error>
+                        </mat-form-field>
+                      </div>
+                      <div class="campos-form">
+                        <mat-form-field
+                          class="example-full-width input-campos"
+                          appearance="fill"
+                        >
+                          <mat-label>Telefone 2</mat-label>
+                          <span matPrefix>+55 &nbsp;</span>
+                          <input
+                            type="tel"
+                            matInput
+                            placeholder="99999-9999"
+                            formControlName="telefone2"
+                          />
+                          <mat-error
+                            *ngIf="formGroup.controls.telefone2.invalid"
+                            >Preencha o telefone corretamente
+                          </mat-error>
+                        </mat-form-field>
+                      </div>
+                    </div>
+                  </div>
+                </mat-tab>
+                <mat-tab label="Endereço">
+                  <div class="cadastro">
+                    <!-- Container 4 -->
+                    <div class="container-4">
+                      <div class="campos-form">
+                        <mat-form-field class="input-campos" appearance="fill">
+                          <mat-label>CEP</mat-label>
+                          <input matInput formControlName="cep" />
+                          <button
+                            mat-icon-button
+                            matSuffix
+                            type="button"
+                            (click)="getEnderecoPeloCep()"
+                          >
+                            <mat-icon
+                              aria-hidden="false"
+                              aria-label="Example home icon"
+                              >search</mat-icon
+                            >
+                          </button>
+                          <mat-error *ngIf="formGroup.controls.cep.invalid"
+                            >Preencha o CEP corretamente
+                          </mat-error>
+                        </mat-form-field>
+                      </div>
+                      <div class="campos-form">
+                        <mat-form-field class="input-campos" appearance="fill">
+                          <mat-label>Endereço</mat-label>
+                          <input matInput formControlName="endereco" />
+                          <mat-error *ngIf="formGroup.controls.endereco.invalid"
+                            >Preencha o endereço corretamente
+                          </mat-error>
+                        </mat-form-field>
+                      </div>
+                      <div class="campos-form">
+                        <mat-form-field class="input-campos" appearance="fill">
+                          <mat-label>Número</mat-label>
+                          <input matInput formControlName="numeroEndereco" />
+                          <mat-error
+                            *ngIf="
+                              formGroup.controls.numeroEndereco.invalid &&
+                              clicado
+                            "
+                            >Informe o número correto
+                          </mat-error>
+                        </mat-form-field>
+                      </div>
+                    </div>
+
+                    <!-- Container 5 -->
+                    <div class="container-5">
+                      <div class="campos-form">
+                        <mat-form-field class="input-campos" appearance="fill">
+                          <mat-label>Bairro</mat-label>
+                          <input matInput formControlName="bairro" />
+                          <mat-error *ngIf="formGroup.controls.bairro.invalid"
+                            >Preencha o nome do bairro corretamente
+                          </mat-error>
+                        </mat-form-field>
+                      </div>
+                      <div class="campos-form">
+                        <mat-form-field class="input-campos" appearance="fill">
+                          <mat-label>Cidade</mat-label>
+                          <input matInput formControlName="cidade" />
+                          <mat-error *ngIf="formGroup.controls.cidade.invalid"
+                            >Preencha com uma cidade válida
+                          </mat-error>
+                        </mat-form-field>
+                      </div>
+                    </div>
+                  </div>
+                </mat-tab>
+                <mat-tab label="Informações Adicionais">
+                  <div class="cadastro">
+                    <div class="container-6">
+                      <div class="campos-form">
+                        <mat-form-field appearance="fill" class="input-campos">
+                          <mat-label>Tipo de Edificação</mat-label>
+                          <mat-select formControlName="tipoEdificacao">
+                            <mat-option
+                              *ngFor="let tipo of tipos"
+                              [value]="tipo.value"
+                            >
+                              {{ tipo.viewValue }}
+                            </mat-option>
+                          </mat-select>
+                        </mat-form-field>
+                      </div>
+                      <div class="campos-form">
+                        <mat-form-field class="input-campos" appearance="fill">
+                          <mat-label>Núm. Moradores</mat-label>
+                          <input
+                            matInput
+                            type="number"
+                            formControlName="numeroMoradores"
+                          />
+                          <mat-error
+                            *ngIf="formGroup.controls.numeroMoradores.invalid"
+                            >Preencha o número de edificacoes
+                          </mat-error>
+                        </mat-form-field>
+                      </div>
+                      <div class="campos-form">
+                        <mat-form-field appearance="fill" class="input-campos">
+                          <mat-label>Tem botijão?</mat-label>
+                          <mat-select formControlName="temBotijao">
+                            <mat-option
+                              *ngFor="let botijao of botijoes"
+                              [value]="botijao.value"
+                            >
+                              {{ botijao.viewValue }}
+                            </mat-option>
+                          </mat-select>
+                        </mat-form-field>
+                      </div>
+                    </div>
+                    <div class="container-6">
+                      <div
+                        class="campos-form"
+                        *ngIf="formGroup.value.temBotijao == 'sim-1'"
+                      >
+                        <mat-form-field class="input-campos" appearance="fill">
+                          <mat-label>Qtd. Botijão</mat-label>
+                          <input
+                            matInput
+                            type="number"
+                            formControlName="qtdBotijao"
+                          />
+                        </mat-form-field>
+                      </div>
+                    </div>
+                  </div>
+                </mat-tab>
+              </mat-tab-group>
+            </form>
+          </mat-tab>
+
+          <!-- Criação da aba de objetos -->
+          <mat-tab label="Objetos">
+            <mat-tab-group mat-align-tabs="center">
+              <!-- Mangueira -->
+              <mat-tab label="Mangueira">
+                <form [formGroup]="formMangueira">
+                  <div class="objetos">
+                    <div class="campos-objeto">
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <input formControlName="id" type="hidden" />
+                        <mat-label>Selecione a validade</mat-label>
+                        <input
+                          matInput
+                          [matDatepicker]="picker"
+                          formControlName="validade"
+                        />
+                        <mat-datepicker-toggle
+                          matSuffix
+                          [for]="picker"
+                        ></mat-datepicker-toggle>
+                        <mat-datepicker #picker></mat-datepicker>
+                        <mat-error
+                          *ngIf="formMangueira.controls.validade.invalid"
+                          >Preencha uma data válida
+                        </mat-error>
+                      </mat-form-field>
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <mat-label>Modelo</mat-label>
+                        <mat-select formControlName="modelo">
+                          <mat-option
+                            *ngFor="let modelo of modelosMangueira"
+                            [value]="modelo.value"
+                          >
+                            {{ modelo.viewValue }}
+                          </mat-option>
+                        </mat-select>
+                        <mat-error *ngIf="formMangueira.controls.modelo.invalid"
+                          >Selecione o modelo da mangueira
+                        </mat-error>
+                      </mat-form-field>
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <mat-label>Tamanho</mat-label>
+                        <input
+                          matInput
+                          type="text"
+                          formControlName="tamanho"
+                          placeholder="Tamanho em metros"
+                        />
+                        <mat-error
+                          *ngIf="formMangueira.controls.tamanho.invalid"
+                          >Preencha o tamanho da mangueira
+                        </mat-error>
+                      </mat-form-field>
+                    </div>
+                  </div>
+                </form>
+              </mat-tab>
+              <!-- Valvula -->
+              <mat-tab label="Válvula">
+                <form [formGroup]="formValvula">
+                  <div class="objetos">
+                    <div class="campos-objeto valvula">
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <input formControlName="id" type="hidden" />
+                        <mat-label>Selecione a validade</mat-label>
+                        <input
+                          matInput
+                          [matDatepicker]="picker1"
+                          formControlName="validade"
+                        />
+                        <mat-datepicker-toggle
+                          matSuffix
+                          [for]="picker1"
+                        ></mat-datepicker-toggle>
+                        <mat-datepicker #picker1></mat-datepicker>
+                        <mat-error *ngIf="formValvula.controls.validade.invalid"
+                          >Preencha uma data válida
+                        </mat-error>
+                      </mat-form-field>
+                    </div>
+                  </div>
+                </form>
+              </mat-tab>
+              <!-- Extintor -->
+              <mat-tab label="Extintor">
+                <form [formGroup]="formExtintor">
+                  <div class="objetos">
+                    <div class="campos-objeto">
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <input formControlName="id" type="hidden" />
+                        <mat-label>Selecione a validade</mat-label>
+                        <input
+                          matInput
+                          [matDatepicker]="picker2"
+                          formControlName="dataValidade"
+                        />
+                        <mat-datepicker-toggle
+                          matSuffix
+                          [for]="picker2"
+                        ></mat-datepicker-toggle>
+                        <mat-datepicker #picker2></mat-datepicker>
+                        <mat-error
+                          *ngIf="formExtintor.controls.dataValidade.invalid"
+                          >Preencha uma data válida
+                        </mat-error>
+                      </mat-form-field>
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <mat-label>Modelo</mat-label>
+                        <mat-select formControlName="modelo">
+                          <mat-option
+                            *ngFor="let modelo of modelosExtintor"
+                            [value]="modelo.value"
+                          >
+                            {{ modelo.viewValue }}
+                          </mat-option>
+                        </mat-select>
+                        <mat-error *ngIf="formExtintor.controls.modelo.invalid"
+                          >Selecione o modelo do extintor
+                        </mat-error>
+                      </mat-form-field>
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <mat-label>Possui Selo Inmetro</mat-label>
+                        <mat-select formControlName="seloInmetro">
+                          <mat-option
+                            *ngFor="let selo of selosInmetro"
+                            [value]="selo.value"
+                          >
+                            {{ selo.viewValue }}
+                          </mat-option>
+                        </mat-select>
+                      </mat-form-field>
+                    </div>
+                    <div class="campos-objeto extintor">
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <mat-label>Peso</mat-label>
+                        <input matInput type="text" formControlName="peso" />
+                        <mat-error *ngIf="formExtintor.controls.peso.invalid"
+                          >Preencha o peso do extintor
+                        </mat-error>
+                      </mat-form-field>
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <mat-label>Ano Inspeção</mat-label>
+                        <input
+                          matInput
+                          type="text"
+                          formControlName="anoInspecao"
+                        />
+                        <mat-error
+                          *ngIf="formExtintor.controls.anoInspecao.invalid"
+                          >Preencha o ano de expedição do extintor
+                        </mat-error>
+                      </mat-form-field>
+                    </div>
+                  </div>
+                </form>
+              </mat-tab>
+              <!-- hidrante -->
+              <mat-tab label="Hidrante de Parede">
+                <form [formGroup]="formHidrante">
+                  <div class="objetos">
+                    <div class="campos-objeto">
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <input formControlName="id" type="hidden" />
+                        <mat-label>Selecione a validade</mat-label>
+                        <input
+                          matInput
+                          [matDatepicker]="picker3"
+                          formControlName="validade"
+                        />
+                        <mat-datepicker-toggle
+                          matSuffix
+                          [for]="picker3"
+                        ></mat-datepicker-toggle>
+                        <mat-datepicker #picker3></mat-datepicker>
+                        <mat-error
+                          *ngIf="formHidrante.controls.validade.invalid"
+                          >Selecione a validade do hidrante
+                        </mat-error>
+                      </mat-form-field>
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <mat-label>Número Patrimonio</mat-label>
+                        <input
+                          matInput
+                          type="text"
+                          formControlName="numeroPatrimonio"
+                        />
+                        <mat-error
+                          *ngIf="formHidrante.controls.numeroPatrimonio.invalid"
+                          >Preencha o número de patrimônio.
+                        </mat-error>
+                      </mat-form-field>
+                    </div>
+                    <div class="campos-objeto">
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <mat-label>Data do ultimo teste</mat-label>
+                        <input
+                          matInput
+                          [matDatepicker]="picker4"
+                          formControlName="dataUltimoTeste"
+                        />
+                        <mat-datepicker-toggle
+                          matSuffix
+                          [for]="picker4"
+                        ></mat-datepicker-toggle>
+                        <mat-datepicker #picker4></mat-datepicker>
+                        <mat-error
+                          *ngIf="formHidrante.controls.dataUltimoTeste.invalid"
+                          >Selecione a data de último teste do hidrante
+                        </mat-error>
+                      </mat-form-field>
+                      <mat-form-field appearance="fill" class="input-campos">
+                        <mat-label>Status Atividade</mat-label>
+                        <input
+                          matInput
+                          type="text"
+                          formControlName="statusAtividade"
+                        />
+                        <mat-error
+                          *ngIf="formHidrante.controls.statusAtividade.invalid"
+                          >Preencha o status da atividade
+                        </mat-error>
+                      </mat-form-field>
+                    </div>
+                  </div>
+                </form>
+              </mat-tab>
+            </mat-tab-group>
+          </mat-tab>
+        </mat-tab-group>
+        <div class="div-button">
+          <button
+            type="reset"
+            class="btn btn-danger"
+            id="btn-cadastro-edificacao"
+            *ngIf="!editar"
+            (click)="cadastrar()"
+          >
+            Cadastrar
+          </button>
+          <button
+            type="reset"
+            class="btn btn-danger"
+            id="btn-salvar-edificacao"
+            *ngIf="editar"
+            (click)="salvarCadastro()"
+          >
+            Salvar
+          </button>
+          <button
+            type="reset"
+            class="btn btn-danger"
+            id="btn-deletar-edificacao"
+            *ngIf="editar"
+            (click)="deletar()"
+          >
+            Deletar
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Pesquisa de Moradores -->
+    <div class="div2">
+      <div class="relacao-edificacoes">
+        <!-- <div>
+          <h4>Moradores Cadastrados</h4>
+        </div> -->
+        <mat-form-field appearance="fill">
+          <mat-label>Filtro</mat-label>
+          <input
+            matInput
+            (keyup)="applyFilter($event)"
+            placeholder="Digite um dado de pesquisa"
+            #input
+          />
+        </mat-form-field>
+        <table
+          mat-table
+          [dataSource]="dataSource"
+          class="mat-elevation-z8 demo-table"
+        >
+          <!-- Nome Column -->
+          <ng-container matColumnDef="nome">
+            <th mat-header-cell *matHeaderCellDef>Nome</th>
+            <td mat-cell *matCellDef="let element">{{ element.nome }}</td>
+          </ng-container>
+
+          <!-- endereco Column -->
+          <ng-container matColumnDef="endereco">
+            <th mat-header-cell *matHeaderCellDef>Endereco</th>
+            <td mat-cell *matCellDef="let element">{{ element.endereco }}</td>
+          </ng-container>
+
+          <!-- telefone Column -->
+          <ng-container matColumnDef="telefone1">
+            <th mat-header-cell *matHeaderCellDef>Telefone</th>
+            <td mat-cell *matCellDef="let element">{{ element.telefone1 }}</td>
+          </ng-container>
+
+          <!-- numMoradores Column -->
+          <ng-container matColumnDef="numeroMoradores">
+            <th mat-header-cell *matHeaderCellDef>Núm. Moradores</th>
+            <td mat-cell *matCellDef="let element">
+              {{ element.numeroMoradores }}
+            </td>
+          </ng-container>
+
+          <!-- tipoEdificacao Column -->
+          <ng-container matColumnDef="tipoEdificacao">
+            <th mat-header-cell *matHeaderCellDef>Tipo de Edificação</th>
+            <td mat-cell *matCellDef="let element">
+              {{ element.tipoEdificacao }}
+            </td>
+          </ng-container>
+
+          <!-- temBotijao Column -->
+          <ng-container matColumnDef="temBotijao">
+            <th mat-header-cell *matHeaderCellDef>Tem botijão?</th>
+            <td mat-cell *matCellDef="let element">{{ element.temBotijao }}</td>
+          </ng-container>
+
+          <!-- qtdBotijao Column -->
+          <ng-container matColumnDef="qtdBotijao">
+            <th mat-header-cell *matHeaderCellDef>Qtd. Botijão</th>
+            <td mat-cell *matCellDef="let element">{{ element.qtdBotijao }}</td>
+          </ng-container>
+
+          <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+          <tr
+            mat-row
+            *matRowDef="let row; columns: displayedColumns"
+            (click)="carregaNaTela(row)"
+          ></tr>
+        </table>
+        <mat-paginator
+          (page)="handlePageEvent($event)"
+          [length]="length"
+          [pageSize]="pageSize"
+          [showFirstLastButtons]="showFirstLastButtons"
+          [pageIndex]="pageIndex"
+          aria-label="Select page"
+        >
+        </mat-paginator>
+      </div>
+    </div>
+  </div>
+</div>
