@@ -12,7 +12,7 @@ app.use(requireHTTPS);
 app.use(express.static('./dist/<sistema-web-bombeiros.json>'));
 
 app.get('/*', function (req, res) {
-  res.sendFile('index.html', { root: 'dist/<name-on-package.json>/' });
+  res.sendFile('index.html', { root: 'dist/<sistema-web-bombeiros.json>/' });
 });
 
 app.listen(process.env.PORT || 8080);
