@@ -9,10 +9,10 @@ const express = require('express');
 const app = express();
 app.use(requireHTTPS);
 
-app.use(express.static('./dist/<sistema-web-bombeiros.json>'));
+app.use(express.static('./dist/sistema-web-bombeiros'));
 
 app.get('/*', function (req, res) {
-  res.sendFile('index.html', { root: 'dist/<sistema-web-bombeiros.json>/' });
+  res.sendFile('index.html', { root: 'dist/sistema-web-bombeiros' });
 });
 
 app.listen(process.env.PORT || 8080);
